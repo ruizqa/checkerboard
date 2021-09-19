@@ -1,0 +1,27 @@
+body{
+    width: 50%;
+    margin: 0% 10%;
+}
+
+
+h1{
+
+    text-align: center;
+    position:center;
+    margin:2% 0%;
+}
+
+
+
+.row{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    
+}
+
+.box{
+    
+    padding:5%;
+    
+}
